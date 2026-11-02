@@ -1,0 +1,1 @@
+{"name": "Woodfire Rezeptbuch – Pro Connect XL", "short_name": "Woodfire Rezepte", "lang": "de", "start_url": "./index.html", "display": "standalone", "background_color": "#101c1d", "theme_color": "#142525", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml"}]}
