@@ -1,1 +1,0 @@
-Handy-Version ohne assets-Ordner. Lade index.html, manifest.webmanifest, sw.js und icon.svg in das Stammverzeichnis deines GitHub-Pages-Repositories hoch. Alle 250 Illustrationen, Rezepte und Kaufland-Kennzeichnungen sind in index.html eingebettet. Keine Ordner notwendig. Hinweis: 25 Grundrezepte mit je 10 Varianten, keine 250 validierten Einzelrezepte.
